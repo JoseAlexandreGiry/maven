@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/multiModuleservice/multiModulDao.iml" filepath="$PROJECT_DIR$/multiModuleservice/multiModulDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiModule.iml" filepath="$PROJECT_DIR$/multiModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiModuleservice/multiModuleservice.iml" filepath="$PROJECT_DIR$/multiModuleservice/multiModuleservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multimoduledao/multimoduledao.iml" filepath="$PROJECT_DIR$/multimoduledao/multimoduledao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multimoduledomaine/multimoduledomaine.iml" filepath="$PROJECT_DIR$/multimoduledomaine/multimoduledomaine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multimoduleweb/multimoduleweb.iml" filepath="$PROJECT_DIR$/multimoduleweb/multimoduleweb.iml" />
+    </modules>
+  </component>
+</project>

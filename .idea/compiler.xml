@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="multiModulDao" />
+        <module name="multimoduledao" />
+        <module name="multimoduledomaine" />
+        <module name="multiModuleservice" />
+        <module name="multimoduleweb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="multiModulDao" target="1.5" />
+      <module name="multiModule" target="1.5" />
+      <module name="multimoduledao" target="1.5" />
+      <module name="multimoduledomaine" target="1.5" />
+      <module name="multiModuleservice" target="1.5" />
+      <module name="multimoduleweb" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
