@@ -14,11 +14,11 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="multiModulDao" target="1.5" />
-      <module name="multiModule" target="1.5" />
-      <module name="multimoduledao" target="1.5" />
-      <module name="multimoduledomaine" target="1.5" />
-      <module name="multiModuleservice" target="1.5" />
+      <module name="multiModulDao" target="1.8" />
+      <module name="multiModule" target="1.8" />
+      <module name="multimoduledao" target="1.8" />
+      <module name="multimoduledomaine" target="1.8" />
+      <module name="multiModuleservice" target="1.8" />
       <module name="multimoduleweb" target="1.7" />
     </bytecodeTargetLevel>
   </component>
